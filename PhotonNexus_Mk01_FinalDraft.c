@@ -1,4 +1,4 @@
-// ======================= Solar Tracker Complete - PIC18F46K22 ================
+// ======================= PhotonNexus Mk.1 Complete - PIC18F46K22 ================
 // Toolchain: MPLAB X + XC8
 // Clock: Internal 16 MHz
 // Servos: RC2 (azimuth), RB3 (tilt) - OPTIMIZED TRACKING ALGORITHM
@@ -738,4 +738,5 @@ void main(void){
 
         __delay_ms(25);
     }
+
 }
