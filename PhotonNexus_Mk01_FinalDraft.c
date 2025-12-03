@@ -483,8 +483,6 @@ static void display_page_0(void){
     lcd_cmd(0x01);
     lcd_setxy(0,0);
     lcd_print("PhotonNexus Mk.1");
-    lcd_setxy(0,1);
-    lcd_print("v2.0 Enhanced");
 }
 
 static void display_page_1(void){
@@ -639,7 +637,6 @@ void main(void){
 
     // Boot banner
     lcd_setxy(0,0); lcd_print("PhotonNexus Mk.1");
-    lcd_setxy(0,1); lcd_print("v2.0 Enhanced");
     __delay_ms(2000);
 
     // Center servos
@@ -740,3 +737,4 @@ void main(void){
     }
 
 }
+
