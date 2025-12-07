@@ -1,6 +1,3 @@
-Photon Nexus Mk. 1 was completed for the final project for ECE 3301L: Introduction to Microcontrollers Laboratory at Cal Poly Pomona. 
-The work draws on the embedded-systems and microcontroller principles developed throughout the semester under Professor Torousian’s instruction, 
-including sensor interfacing, timing-based actuator control, serial communication, and LCD-based user feedback. Course lectures and laboratory 
-exercises provided the conceptual framework that guided the project’s design choices, firmware organization, and troubleshooting approach. This 
-foundation enabled the successful integration of solar power harvesting, battery storage, and real-time monitoring into a functional dual-axis 
-tracking prototype.
+# PhotonNexus-Mk.1 
+
+Photon Nexus Mk. 1 was completed for the final project for ECE 3301L: Introduction to Microcontrollers Laboratory at Cal Poly Pomona. The work draws on the embedded-systems and microcontroller principles developed throughout the semester under Professor Torousian’s instruction, including sensor interfacing, timing-based actuator control, serial communication, and LCD-based user feedback. Course lectures and laboratory exercises provided the conceptual framework that guided the project’s design choices, firmware organization, and troubleshooting approach. This foundation enabled the successful integration of solar power harvesting, battery storage, and real-time monitoring into a functional dual-axis tracking prototype.
